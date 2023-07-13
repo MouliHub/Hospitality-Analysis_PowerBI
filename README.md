@@ -1,10 +1,11 @@
 # Hospitality-Analysis_PowerBI
 
-Insights From the Data:
+Important insights From the DashBoard:
 * Total revenue generated is 1.69 Billion & overall occupancy is 57.8%
 * Revenue per avaliable room is 7337/-
 * Daily sellable room nights are 2528
 * Average daily rate is 12.70K
+* Average overall rating is 3.62
 * Out of the 4 cities Mumbai has generated the highest revenue & Delhi has generated lowest revenue
 * Delhi has recorded highest occupancy whereas banglore has recoreded less occupancy but the margin is very less
 * Elite room category has highest % of booking & Presidential has lowest % of booking
