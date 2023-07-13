@@ -1,5 +1,16 @@
 # Hospitality-Analysis_PowerBI
 
+Insights From the Data:
+* Total revenue generated is 396 Million & overall occupancy is 56% 
+* Out of the 4 cities Mumbai has generated the highest revenue & Delhi has generated lowest revenue
+* Delhi has recorded highest occupancy whereas banglore has recoreded less occupancy but the margin is very less
+* Elite room category has highest % of booking & Presidential has lowest % of booking
+* Exotica has generated more revenue & Atliq seasons has generated less revenue
+* Luxury category has generated more revenue compared to business category
+
+Recommendations:
+
+
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/8efc7579-088d-4634-bbc4-bcd81be09523)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/598cc22d-43fa-4c8c-862d-7b7786c2e05f)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/3da3e66f-4a6f-4e47-a751-8a4424103790)
