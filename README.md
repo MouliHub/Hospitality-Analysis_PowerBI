@@ -1,17 +1,22 @@
 # Hospitality-Analysis_PowerBI
 
 Insights From the Data:
-* Total revenue generated is 396 Million & overall occupancy is 56% 
+* Total revenue generated is 1.69 Billion & overall occupancy is 57.8%
+* Revenue per avaliable room is 7337/-
+* Daily sellable room nights are 2528
+* Average daily rate is 12.70K
 * Out of the 4 cities Mumbai has generated the highest revenue & Delhi has generated lowest revenue
 * Delhi has recorded highest occupancy whereas banglore has recoreded less occupancy but the margin is very less
 * Elite room category has highest % of booking & Presidential has lowest % of booking
-* Exotica has generated more revenue & Atliq seasons has generated less revenue
+* Atliq Exotica has generated more revenue & Atliq seasons has generated less revenue
 * Luxury category has generated more revenue compared to business category
+* Weekends have more occupancy compared to weekdays
+* Revenue generated per avaliable room is high on weekends compared to weekdays
+  
 
 Recommendations:
 
-
-![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/8efc7579-088d-4634-bbc4-bcd81be09523)
+![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/f9a2c05d-3121-4625-a3fc-d3bff5404f16)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/598cc22d-43fa-4c8c-862d-7b7786c2e05f)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/3da3e66f-4a6f-4e47-a751-8a4424103790)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/1a01fd60-6def-42a9-9746-759683624051)
