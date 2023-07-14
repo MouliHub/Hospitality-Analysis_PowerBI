@@ -15,7 +15,7 @@ Important insights From the DashBoard:
 * Revenue generated per avaliable room is high on weekends compared to weekdays
   
 
-Recommendations:
+
 
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/f9a2c05d-3121-4625-a3fc-d3bff5404f16)
 ![image](https://github.com/MouliHub/Hospitality-Analysis_PowerBI/assets/103060379/598cc22d-43fa-4c8c-862d-7b7786c2e05f)
